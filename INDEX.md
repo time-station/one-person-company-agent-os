@@ -63,11 +63,11 @@
 1. `README.md`  
 2. `manifesto/mission-vision-v1.md`  
 3. `manifesto/open-source-community-charter-v1.md`  
-4. `foundations/one-person-company-intelligent-operating-system-overview-v1.md`  
-  
----  
-  
-## 如果你想先理解“社区为什么存在”  
+4. `manifesto/foundations/one-person-company-intelligent-operating-system-overview-v1.md`
+
+---
+
+## 如果你想先理解”社区为什么存在”  
   
 建议按这个顺序阅读：  
   
@@ -83,9 +83,9 @@
   
 建议按这个顺序阅读：  
   
-1. `foundations/one-person-company-agent-key-traits-v1.md`  
-2. `manifesto/core-principles-v1.md`  
-3. `foundations/one-person-company-agent-seven-core-model-v1.md`  
+1. `manifesto/foundations/one-person-company-agent-key-traits-v1.md`
+2. `manifesto/core-principles-v1.md`
+3. `manifesto/foundations/one-person-company-agent-seven-core-model-v1.md`
 4. `roles/role-system-overview-v1.md`  
 5. `workflows/seven-core-collaboration-workflow-v1.md`  
   
@@ -95,10 +95,10 @@
   
 建议按这个顺序阅读：  
   
-1. `foundations/chief-operating-agent-definition-v1.md`  
-2. `foundations/chief-operating-agent-framework-overview-v1.md`  
-3. `foundations/chief-operating-agent-minimal-feedback-mechanism-v1.md`  
-4. `foundations/one-person-company-intelligent-operating-system-overview-v1.md`  
+1. `manifesto/foundations/chief-operating-agent-definition-v1.md`
+2. `manifesto/foundations/chief-operating-agent-framework-overview-v1.md`
+3. `manifesto/foundations/chief-operating-agent-minimal-feedback-mechanism-v1.md`
+4. `manifesto/foundations/one-person-company-intelligent-operating-system-overview-v1.md`
   
 ---  
   
@@ -152,7 +152,7 @@
 看 `README.md`  
   
 ### 第二步  
-看 `foundations/one-person-company-intelligent-operating-system-overview-v1.md`  
+看 `manifesto/foundations/one-person-company-intelligent-operating-system-overview-v1.md`
   
 ### 第三步  
 看 `templates/task-intake-template-v1.md`  

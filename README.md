@@ -48,8 +48,8 @@
 
 1. `INDEX.md`
 2. `manifesto/open-source-community-charter-v1.md`
-3. `foundations/chief-operating-agent-definition-v1.md`
-4. `foundations/one-person-company-intelligent-operating-system-overview-v1.md`
+3. `manifesto/foundations/chief-operating-agent-definition-v1.md`
+4. `manifesto/foundations/one-person-company-intelligent-operating-system-overview-v1.md`
 
 ---
 
